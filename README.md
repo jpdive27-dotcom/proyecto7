@@ -5,10 +5,3 @@ Permite generar visualizaciones interactivas con Plotly:
 - Histograma del odómetro (odometer)
 - Gráfico de dispersión entre odometer y price
 
-## Cómo ejecutar la app
-1. Instalar dependencias:
-   - pandas
-   - plotly_express
-   - streamlit
-2. Ejecutar:
-   streamlit run app.py
