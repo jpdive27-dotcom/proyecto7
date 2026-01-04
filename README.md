@@ -5,3 +5,4 @@ Permite generar visualizaciones interactivas con Plotly:
 - Histograma del odómetro (odometer)
 - Gráfico de dispersión entre odometer y price
 
+**App en vivo:** https://proyecto7-10li.onrender.com
