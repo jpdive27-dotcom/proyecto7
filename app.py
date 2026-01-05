@@ -12,7 +12,7 @@ st.header("Cuadro de mandos: Anuncios de venta de coches (USA)")
 car_data = pd.read_csv("vehicles_us.csv")
 
 st.write("Vista rápida del dataset:")
-st.dataframe(car_data.head())
+st.dataframe(car_data)
 
 
 hist_button = st.button("Construir histograma (odometer)")
