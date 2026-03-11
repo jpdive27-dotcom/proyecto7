@@ -25,6 +25,7 @@ Este proyecto fue desarrollado utilizando:
 - **Plotly**
 - **Streamlit**
 
+# Aplicación interactiva
 Esta aplicación web (Streamlit) muestra un análisis exploratorio básico del conjunto de datos `vehicles_us.csv` (anuncios de venta de coches).
 Permite generar visualizaciones interactivas con Plotly:
 - Histograma del odómetro (odometer)
